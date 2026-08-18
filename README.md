@@ -112,7 +112,7 @@ Optimization / decision modeling
 
 Repository Structure
 
-├── notebook/  
+├── notebooks/  
 │   └── pricing_optimization.ipynb  
 └── README.md
 

@@ -114,8 +114,6 @@ Repository Structure
 
 ├── notebook/  
 │   └── pricing_optimization.ipynb  
-├── outputs/  
-│   └── optimal_prices_by_category.csv  
 └── README.md
 
 Key Takeaway
